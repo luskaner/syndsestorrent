@@ -1,9 +1,9 @@
 
-*You can view the original site and download the **archive** in https://archive.codeplex.com/?p=syndsestorrent that exclusively includes the **issues**, **discussions** and **release files and notes***
+*You can view the original site and download the **archive** in https://archive.codeplex.com/?p=syndsestorrent that exclusively includes the **issues**, **discussions** and **release files and notes***.
 
 :es: *Español*
 
-# Gracias por vuestro apoyo:exclamation:, el proyecto está oficialmente abandonado, aunque cualquier desarrollador puede continuarlo desde el código fuente y las instrucciones de como [construirlo](https://github.com/luskaner/syndsestorrent/wiki/Informaci%C3%B3n-para-desarrolladores)
+# Gracias por vuestro apoyo:exclamation:, el proyecto está oficialmente abandonado, aunque cualquier desarrollador puede continuarlo desde el código fuente y las instrucciones de como [construirlo](https://github.com/luskaner/syndsestorrent/wiki/Informaci%C3%B3n-para-desarrolladores).
 
 # Permite la búsqueda/descarga de torrents en español directamente desde la aplicación Download Station de Synology (búsqueda o RSS)
 
@@ -18,7 +18,7 @@
 
 :gb: / :us: *English*
 
-# Thanks for your support:exclamation:, the project is officially discontinued, although any developer can continue it from the source code and the instructions on how to [build it](https://github.com/luskaner/syndsestorrent/wiki/Informaci%C3%B3n-para-desarrolladores) (Spanish)
+# Thanks for your support:exclamation:, the project is officially discontinued, although any developer can continue it from the source code and the instructions on how to [build it](https://github.com/luskaner/syndsestorrent/wiki/Informaci%C3%B3n-para-desarrolladores) (Spanish).
 
 # Allows to search/download torrents in spanish directly from Download Station from Synology (search or RSS)
 
